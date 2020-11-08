@@ -1,8 +1,8 @@
-# My first page
+# Day planner 
 
 ## Description 
 
- This project will be my portfolio when I polish within the next 3 months. 
+This one is to help you plan your day. Nowadays everything is so fast so you must have something to help you plan your time. This is what you need. 
 
 ## Installation
 
@@ -12,12 +12,17 @@ Any browser will work for you but as a web developer, I recommend you to use goo
 
 ## Usage 
 
-Home page is just a little bit of information about me and who I am. In the nav bar you will see my name and it contains a link which will take you to my Instagram page where you add me as your friend. Also, nav bar contains Home page where you are right now. But if you will click Portfolio later you will find all my works and I promise it will be amazing. Next, there is contact me where if you will fill in a short form you can reach me. 
-
+Plan your day. 
+Chose what hour you have to do your task. 
+Enter your task and click save button. 
+It will save it for you.
+It is easy to read your day planner. All events that passed will be in gray so you don't have to worry about them. 
+The current task is in red so you can focus on that. 
+and everything upcoming is green which means you have some time to get prepared for that. 
 
 ## Credits
 
-I did this project by myself using a little bit of google.com and some help from Wilson. 
+I wrote that code on Sunday morning within two hours by my self. 
 
 
 ## License
@@ -43,10 +48,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-Sory for short readme file but it is a small project and there is nothing much to talk about it. 
