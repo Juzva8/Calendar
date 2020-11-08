@@ -38,7 +38,6 @@ if (hour < now){ $(this).addClass("past")
     $(this).removeClass("present")
     $(this).addClass("future")
 }
- 
 })
 }
 updateColor()

@@ -9,7 +9,6 @@ This one is to help you plan your day. Nowadays everything is so fast so you mus
 To run this application you need a browser. 
 Any browser will work for you but as a web developer, I recommend you to use google chrome.  
 
-
 ## Usage 
 
 Plan your day. 
