@@ -2,27 +2,25 @@
 
 ## Description 
 
-This one is to help you plan your day. Nowadays everything is so fast so you must have something to help you plan your time. This is what you need. 
+This application is a planner to help schedule out your workday. It allows you to enter and save events based on when they are scheduled. The planner utilizes Moments.js to display if the hour is in the past, present, or future, and is color-coded accordingly.
+
+The JavaScript and jQuery used to create this app was written by me, DJ Hersh. The HTML and CSS were provided by the UCLA Extension Full-Stack Web-Development Coding Bootcamp and instructor Bryan Swarthout. I added some styling elements, such as a linear-gradient for the background and box-shadows around the time-blocks.
+
+I utilized local storage to allow the user to save events even after they navigate away from the page.
 
 ## Installation
 
-To run this application you need a browser. 
-Any browser will work for you but as a web developer, I recommend you to use google chrome.  
+To run this application you need a browser. Any browser will work for you but as a web developer, I recommend you to use google chrome.  
 
-## Usage 
+## Link
 
-Plan your day. 
-Chose what hour you have to do your task. 
-Enter your task and click save button. 
-It will save it for you.
-It is easy to read your day planner. All events that passed will be in gray so you don't have to worry about them. 
-The current task is in red so you can focus on that. 
-and everything upcoming is green which means you have some time to get prepared for that. 
+https://juzva8.github.io/Calendar/
 
-## Credits
+## Usage
 
-I wrote that code on Sunday morning within two hours by my self. 
+![Planner screenshot](assets\Screenshot.png)
 
+When you get to the page, you will see the current date displayed at the top, and a block to add scheduled events for each hour of the workday. To add an event, simply click on the box in the appropriate hour block, enter your event, and click the save button. Using Moments.js, the planner will be color-coded based on if the hour of the block has past, is current, or is in the future.
 
 ## License
 
